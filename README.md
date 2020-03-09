@@ -12,9 +12,8 @@ html testing
 <h6>Heading 6</h6>
 
 <p>I am normal</p>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
+<p style="color:red;">I am normal</p>
+<p style="font-size:50px;">I am normal</p>
 
 <p><b>This text is bold</b></p>
 <p><i>This text is italic</i></p>
